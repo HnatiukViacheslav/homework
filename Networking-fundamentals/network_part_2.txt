@@ -1,0 +1,1 @@
+used commands:  'nano', 'vi',  'notepad', 'chmod', 'cd', 'ssh', 'echo', 'clear', 'll', 'ssh-keygen', 'mkdir -p', 'exit', 'subo su', 'subo nano'
